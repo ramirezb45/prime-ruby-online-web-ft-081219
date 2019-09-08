@@ -1,5 +1,5 @@
 def is_prime(num)
-  (2..(num - 1)).each do |n|
+ num =[2,3,4,5,6,7,8]
     return false if num % n == 0
   end
   true
