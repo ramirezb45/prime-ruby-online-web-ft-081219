@@ -1,2 +1,1 @@
-def prime
-  
+def is_prime
